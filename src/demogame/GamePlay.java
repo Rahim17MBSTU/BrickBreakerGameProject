@@ -128,7 +128,7 @@ public class GamePlay extends JPanel implements ActionListener, KeyListener{
            int ballposX=120;
            int ballposY=350;
            int ballXdir=-3;
-           int ballYdir=-3;
+           int ballYdir=-4;
            int playerX=350;
           }
           
